@@ -83,6 +83,7 @@
   word-spacing: 18px;
 }
 
+
 .bet-button {
   border: 1px solid white;
   padding: 12px 32px;
@@ -173,7 +174,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 25px;
-  padding: 90px 50px;
+  padding: 50px 10px;
 }
 
 .about__logo {
@@ -187,7 +188,7 @@
 
 .about__logo-image {
   width: 100%;
-  padding: 63px 46px;
+  padding: 63px 43px;
 }
 
 .about__column {
@@ -283,10 +284,12 @@
 
 .aligned-text_center {
   text-align: center;
+  
 }
 
 .aligned-text_right {
   text-align: right;
+  padding-right: 155px;
 }
 
 .letter-spacing-extended {
