@@ -1,0 +1,1 @@
+git@github.com:CyberONEpower/ono-tebe-nado-fd.git
